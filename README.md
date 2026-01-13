@@ -24,6 +24,5 @@ Each project directory contains:
 - Datasets — Links or references to the datasets used.
 - Results — Model outputs, visualizations, and performance metrics.
 
-Contributing
-
+# Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
