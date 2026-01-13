@@ -18,7 +18,7 @@ Projects where models discover patterns from unlabeled data:
 - Anomaly Detection
 
 # How to Navigate
-Each project directory contains:
+Each project ins each this 2 directories contains:
 - README.md — Detailed documentation about the project, including its objective, dataset description, methodology, and how to run the code.
 - Source Code — The main implementation of the model and preprocessing pipeline.
 - Datasets — Links or references to the datasets used.
