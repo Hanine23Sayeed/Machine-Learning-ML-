@@ -21,6 +21,7 @@ Projects where models discover patterns from unlabeled data:
 Each project ins each this 2 directories contains:
 - README.md — Detailed documentation about the project, including its objective, dataset description, methodology, and how to run the code.
 - Source Code — The main implementation of the model and preprocessing pipeline.
+- requirement files contains tools and libraries used in each projects
 - Datasets — Links or references to the datasets used.
 - Results — Model outputs, visualizations, and performance metrics.
 
