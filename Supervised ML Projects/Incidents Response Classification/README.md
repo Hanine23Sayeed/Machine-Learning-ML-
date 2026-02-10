@@ -7,6 +7,7 @@ The workflow of this project follows a complete ML pipeline:
 2. Data Balancing
 - Applied SMOTE to solve class imbalance in the target feature IncidentGrade.
 3. Model Training & Evaluation
+  
  Trained and compared multiple ML models:
   - Logistic Regression
   - Decision Tree
@@ -14,6 +15,7 @@ The workflow of this project follows a complete ML pipeline:
   - XGBoost
   - LightGBM
   - Gradient Boosting
+    
 Evaluation metrics used:
    - Accuracy
    - Precision
@@ -22,6 +24,4 @@ Evaluation metrics used:
 📌 Best Model: Random Forest
 
 # Requirements
-
-To run this project, install the following dependencies:
-pip install pandas numpy scikit-learn imbalanced-learn xgboost lightgbm matplotlib seaborn
+To run this project, install the requirements folder
