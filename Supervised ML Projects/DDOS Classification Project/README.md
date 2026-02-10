@@ -9,44 +9,15 @@ The project is organized into a structured and systematic workflow consisting of
 - Data Preprocessing
 - Exploratory Data Analysis
 - Data Splitting
-- Model Development
-- Model Evaluation
+- Model Development: Random Forest, Logistic Regression, Neural Network
+- Model Evaluation: Accuracy, Recall, Precision, F1 score
 - Model Comparison
 Each stage plays a critical role in building a high-performance and generalizable detection system.
 
-# Chapters Overview
-1. Importing Libraries
-This chapter introduces the essential Python libraries used throughout the project, including Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn. These libraries provide the foundation for data manipulation, visualization, modeling, and evaluation.
-
-2. Data Preprocessing
-The dataset is prepared for analysis through a series of cleaning and transformation steps. These include handling missing values, encoding categorical labels into numerical format, and ensuring consistent data types to enable efficient model training.
-
-3. Exploratory Data Analysis
-Exploratory analysis is conducted to gain insights into the dataset’s structure, feature distributions, and correlations. Visualizations and descriptive statistics are used to identify key patterns and potential anomalies in the data.
-
-4. Data Splitting
-The dataset is divided into training and testing subsets to evaluate model performance on unseen data. This step ensures that the models are capable of generalizing beyond the training samples.
-
-5. Model Development
-Three machine learning models are trained and optimized:
-- Random Forest — an ensemble learning method that combines multiple decision trees for improved accuracy and robustness.
-- Logistic Regression — a classical statistical model well-suited for binary classification tasks.
-- Neural Network — a deep learning model capable of learning complex nonlinear relationships in high-dimensional data.
-
-6. Model Evaluation
-The trained models are evaluated using multiple performance metrics:
-- Accuracy — measures overall classification correctness
-- Precision — evaluates the reliability of positive predictions
-- Recall — measures the ability to detect all attack instances
-- F1 Score — balances precision and recall
-  
-7. Model Comparison
-The models are compared using ROC curves and AUC scores to assess their ability to distinguish between benign and malicious traffic. This comparative analysis highlights the strengths of each approach and identifies the most effective model for DDoS detection.
-
 # Requirements
 - Python 3.9+
-- Libraries: numpy , matplotlib , pandas
+- Libraries: numpy , matplotlib , pandas, Seaborn, and Scikit-learn
   Install dependencies with:
    
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
