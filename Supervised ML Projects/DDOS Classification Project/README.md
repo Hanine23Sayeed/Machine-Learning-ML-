@@ -1,10 +1,9 @@
-# Introduction
+# DDOS Attacks classification
 Distributed Denial of Service (DDoS) attacks represent one of the most serious cybersecurity threats to modern digital infrastructures. By overwhelming servers and networks with massive volumes of malicious traffic, these attacks can disrupt services, cause financial losses, and compromise system reliability. As online platforms continue to grow in scale and complexity, the need for intelligent and automated DDoS detection systems has become increasingly critical.
 This project presents a comprehensive machine learning–based framework for detecting and classifying DDoS attacks using the publicly available IDS 2017 dataset. The dataset provides a rich collection of network traffic features that enable accurate identification of malicious behavior. By leveraging advanced machine learning techniques, this study aims to build a robust and reliable intrusion detection system capable of distinguishing between benign and attack traffic.
 The project follows a complete data science pipeline, including data preprocessing, exploration, model development, evaluation, and performance comparison. Three powerful machine learning models — Random Forest, Logistic Regression, and Neural Networks — are implemented and evaluated using industry-standard metrics to determine the most effective approach for DDoS detection.
 
-# Project Structure
-# 1- Workflow Overview
+# Workflow Overview
 The project is organized into a structured and systematic workflow consisting of the following stages:
 
 - Data Preprocessing
@@ -44,5 +43,10 @@ The trained models are evaluated using multiple performance metrics:
 7. Model Comparison
 The models are compared using ROC curves and AUC scores to assess their ability to distinguish between benign and malicious traffic. This comparative analysis highlights the strengths of each approach and identifies the most effective model for DDoS detection.
 
-# Conclusion
-This project demonstrates a complete machine learning–driven solution for DDoS attack detection using real-world network traffic data. By applying a structured analytical pipeline and evaluating multiple classification models, the study delivers a scalable and reliable framework for intrusion detection. The results highlight the potential of machine learning techniques in strengthening cybersecurity defenses and protecting critical digital infrastructures from evolving attack threats.
+# Requirements
+- Python 3.9+
+- Libraries: numpy , matplotlib , pandas
+  Install dependencies with:
+   
+pip install -r requirements.txt
+
