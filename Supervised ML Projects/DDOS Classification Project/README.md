@@ -17,7 +17,7 @@ Each stage plays a critical role in building a high-performance and generalizabl
 # Requirements
 - Python 3.9+
 - Libraries: numpy , matplotlib , pandas, Seaborn, and Scikit-learn
-  Install dependencies with:
+- Install dependencies with:
    
   pip install -r requirements.txt
 
