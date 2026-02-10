@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection (Logistic Regression)
+# Credit Card Fraud Detection 
 
 Credit card fraud detection is one of the most important applications of machine learning in the financial and banking industry. With the rapid growth of online transactions, fraudulent activities have become more frequent and more sophisticated, leading to significant financial losses for both customers and institutions. Detecting fraud quickly and accurately is critical to ensure secure transactions and maintain trust in digital payment systems.
 
