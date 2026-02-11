@@ -28,3 +28,6 @@ It covers all transactions between December 1, 2010, and December 9, 2011, total
 The dataset is multivariate, sequential, and time-series in nature, with features of type integer and real.
 It is commonly used for tasks such as classification and clustering in the business domain. 
 Chen, D. (2015). Online Retail [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5BW33.
+
+# Run the Project
+to run the project u must first install required dependencies: pip install -r requirements.txt
