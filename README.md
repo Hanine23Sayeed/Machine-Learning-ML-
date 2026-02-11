@@ -14,8 +14,6 @@ Projects where models learn from labeled data, when we use algorithm like:
 **Unsupervised Learning**
 Projects where models discover patterns from unlabeled data:
 - Clustering
-- Dimensionality Reduction
-- Anomaly Detection
 
 # How to Navigate
 Each project ins each this 2 directories contains:
